@@ -1,0 +1,5 @@
+<resources>
+    <string name="label_text">Введіть текст:</string>
+    <string name="entry_hint">Поле введення</string>
+    <string name="app_name">AnimSample</string>
+</resources>
