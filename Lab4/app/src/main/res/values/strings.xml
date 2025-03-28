@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="hello_text">Привіт, оберіть мову:</string>
+    <string name="btn_ukrainian">Українська</string>
+    <string name="btn_english">English</string>
+    <string name="change_font">Змінити шрифт</string>
+</resources>
